@@ -1,0 +1,37 @@
+/*MY OWN CLASS STARTS HERE*/
+.vert-offset-top {
+	margin-top: 10px;
+}
+.vert-offset-bottom {
+	margin-bottom: 10px;
+}
+/*MY OWN CLASS ENDS HERE*/
+
+
+/*REGISTRATION FORM STARTS HERE*/
+.regform {
+	border: 1px solid #D5D5D5;
+	padding: 0;
+}
+.regform div {
+	padding: 0px 15px;
+}
+/*REGISTRATION FORM ENDS HERE*/
+
+
+/*LOGIN FORM STARTS HERE*/
+.logformlabel {
+	text-align: left !important;
+}
+.logformcheck {
+	padding: 0 !important;
+}
+.logformdef {
+	background: #95A5A6;
+	color: white;
+}
+.logformdef:hover {
+	background: #7f8c8d;
+	color: white;
+}
+/*LOGIN FORM ENDS HERE*/

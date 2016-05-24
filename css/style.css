@@ -1,0 +1,84 @@
+/*MY OWN CLASS STARTS*/
+.vert-offset-top {
+	margin-top: 10px;
+}
+.vert-offset-bottom {
+	margin-bottom: 20px;
+}
+
+/*MY OWN CLASS ENDS*/
+
+/*FORM1 STARTS*/
+.f1main {
+	border: 1px solid #428BCA;
+	padding: 0;
+	height: 350px;
+}
+.f1main h4 {
+	margin: 0 0 5px 0;	
+	padding: 10px 15px 10px 15px;
+}
+.f1main div {
+	padding: 0 15px 0 15px;
+}
+.f1main button {
+	margin: 10px 0 0 15px;
+}
+/*FORM1 ENDS*/
+
+/*FORM2 STARTS HERE*/
+.f2main {
+	border: 1px solid #5CB85C;
+	padding: 0;
+	height: 300px;
+}
+.f2main h4 {
+	background-color: #5CB85C;
+	color: white;
+	margin: 0 0 15px 0;	
+	padding: 10px 15px 10px 15px;
+}
+.f2main div {
+	padding: 0 15px 0 0px;
+}
+.f2main button {
+	margin-left: -15px;
+}
+/*FORM2 ENDS HERE*/
+
+/*INPUTS GROP START HERE*/
+.f3main {
+	border: 1px solid #C9302C;
+	padding: 0;
+	height: auto;
+}
+.f3main h4 {
+	background-color: #C9302C;
+	color: white;
+	margin: 0 0 5px 0;	
+	padding: 10px 15px 10px 15px;
+}
+.f3main div, .f3main h3 {
+	padding: 0 15px 0 15px;
+}
+.f3acti {
+	padding: 0 !important; 
+}
+
+/*INPUTS GROUP ENDS HERE*/
+
+/*RESPONSIVE DESIGN STARTS*/
+.r1cont {
+	border: 1px solid #DDDDDD;	
+}
+.r1head {
+	border-bottom: 1px solid #DDDDDD;
+}
+.r1head h3 {
+	padding-left: 15px;
+}
+.r1cont div {
+	margin-right: auto;
+	margin-left: auto;
+}
+/*RESPONSIVE DESIGN ENDS*/
